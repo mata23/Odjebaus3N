@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="odjebaus3" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Odjebaus 3</name>
+    <description>
+        Odjebaus v.3.0
+    </description>
+    <author email="support@tippsoft.com" href="https://www.tippsoft.com">
+        TippSoft Team
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+</widget>
