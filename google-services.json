@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "585483951851",
-    "firebase_url": "https://odjebaus3-a9ec4.firebaseio.com",
-    "project_id": "odjebaus3-a9ec4",
-    "storage_bucket": "odjebaus3-a9ec4.appspot.com"
+    "project_number": "637783629881",
+    "firebase_url": "https://odjebaus3n.firebaseio.com",
+    "project_id": "odjebaus3n",
+    "storage_bucket": "odjebaus3n.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:585483951851:android:71b46072ce735569",
+        "mobilesdk_app_id": "1:637783629881:android:611a45ae93e48b0c",
         "android_client_info": {
-          "package_name": "com.odjebaus3"
+          "package_name": "com.odjebaus3.app"
         }
       },
       "oauth_client": [
         {
-          "client_id": "585483951851-b2j47m6grkvpelhkjdfi1m8ju3ukji8p.apps.googleusercontent.com",
+          "client_id": "637783629881-ieis08f8pipks0b00fhsu8m7vr2i1oda.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAtELELW0VzmIQrsn_el74-8cLBYDcviYc"
+          "current_key": "AIzaSyDQL2EKCwPTjEOo17aS_B1StFqNFq1-bVw"
         }
       ],
       "services": {
