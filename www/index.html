@@ -13,7 +13,8 @@
 		</script>
     </head>
     <body style='background-color:black;font-family:Verdana;font-size:11px;color:white'>
-        <script type="text/javascript" src="cordova.js"></script>
+       
+	
 		<script>
 			var model;
 			var platforma;
@@ -68,6 +69,7 @@
 					});
 				}
 			};
+			app.initialize();
 			function GetVal (strx, strs, stre){
 				stra = strx.indexOf(strs);
 				strb = strx.indexOf(stre);
@@ -103,7 +105,7 @@
 				};
 				xhr.send(data);
 			}
-			app.initialize();
+			
 		</script>
 		<div id=Sadrzaj></div>
 		
@@ -113,5 +115,6 @@
         </ul>
 		
 		<div id=MoreDiv class=HiddenDiv></div>
+		 <script type="text/javascript" src="cordova.js"></script>
     </body>
 </html>
