@@ -36,7 +36,8 @@
         <splash density="port-xxxhdpi" src="www/splash/drawable-port-xxxhdpi-screen.png" />
 		<allow-intent href="market:*" />
 		<resource-file src="google-services.json" target="app/google-services.json" />
-		<resource-file src="money.wav" target="platforms/browser/res/raw/money.wav" />
+		<resource-file src="money.wav" target="app/platforms/browser/res/raw/money.wav" />
+		
 		
     </platform>
     <access origin="*" />
